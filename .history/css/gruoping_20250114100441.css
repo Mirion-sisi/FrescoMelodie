@@ -1,0 +1,115 @@
+.title {
+    font-size: 2.2rem;
+}
+
+.title2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.desc {
+    color: #000;
+}
+
+
+
+
+/* 业余组 */
+.amateur {
+    background: #fff;
+    padding: 1rem;
+}
+
+.amateur p {
+
+    margin-bottom: 0;
+}
+
+.title3 {
+    background: #5383c1;
+    padding: 1rem 0;
+    text-align: center;
+    /* color: #587b93; */
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+   
+}
+
+.amateur .title2 {
+    color: #587b93;
+    background: #cbdbf0;
+    padding: 1rem 0;
+    /* background: #fff; */
+
+    padding-left: 1rem;
+    border: 1px solid #587b93;
+
+
+}
+
+.amateur .desc {
+    color: #587b93;
+    border: 1px solid #587b93;
+    border-top: none;
+    padding: 0.5rem;
+    text-align: center;
+
+
+}
+
+.speciality{
+    background: #fff;
+    padding: 1rem;
+}
+.speciality p{
+    margin-bottom: 0;
+
+}
+
+
+.speciality .title2 {
+    color: #587b93;
+    background: #cbdbf0;
+    padding: 1rem 0;
+    /* background: #fff; */
+
+    padding-left: 1rem;
+    border: 1px solid #587b93;
+
+
+}
+
+.speciality .desc {
+    color: #587b93;
+    border: 1px solid #587b93;
+    border-top: none;
+    padding: 0.5rem;
+    text-align: center;
+
+
+}
+
+
+
+/* 专业设置 */
+.setting{
+    /* border:1px solid #e01d34; */
+    padding: 1rem;
+    text-align: center;
+    background: #fff;
+}
+.setting p{
+    margin-bottom: 0;
+}
+.setting .title2{
+    background: #e6b1b7;
+    color: #fff;
+    border:1px solid #e01d34;
+    padding: 1rem 0;
+}
+.setting .desc{
+    border:1px solid #e01d34;
+    padding: 0.5rem 0;
+    border-top: none;
+}

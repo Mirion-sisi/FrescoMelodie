@@ -1,0 +1,34 @@
+.title {
+    font-size: 2.2rem;
+}
+
+.title2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.desc {
+    color: #000;
+}
+
+
+
+
+/* 业余组 */
+.amateur {
+    /* background: #cb8080; */
+}
+
+.title3 {
+    background: #cbdbf0;
+    padding: 1rem 0;
+    text-align: center;
+    color: #587b93;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.amateur .title2{
+    color: #587b93;
+    background: #fff;
+}

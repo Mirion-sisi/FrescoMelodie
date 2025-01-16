@@ -1,0 +1,19 @@
+.require{
+
+}
+.title2{
+
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.prize{
+    /* border: 1px solid red; */
+}
+
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 998px;
+    }
+}

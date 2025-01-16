@@ -1,0 +1,14 @@
+/* 导航 */
+.bg-white{
+    background-color: #fff !important;
+
+}
+.logo {
+    width: 12rem;
+    height: auto;
+}
+
+
+.navbar{
+    align-items: end;
+}

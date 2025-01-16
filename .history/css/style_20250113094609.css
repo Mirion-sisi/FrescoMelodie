@@ -1,0 +1,23 @@
+/* 导航 */
+body {
+    background: #000;
+}
+.bg-white{
+    background-color: #fff !important;
+
+}
+.logo {
+    width: 12rem;
+    height: auto;
+}
+
+
+.navbar{
+    align-items: end;
+}
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+}
