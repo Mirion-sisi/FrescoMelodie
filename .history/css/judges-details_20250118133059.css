@@ -1,0 +1,6 @@
+@media (min-width: 1200px) {
+    .container-sm {
+           max-width:900px;
+           background: #fff;
+       }
+   }

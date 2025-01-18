@@ -1,0 +1,32 @@
+.container-sm {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 2rem;
+
+}
+
+@media (min-width: 1200px) {
+    .container-sm {
+        max-width: 1000px;
+        background: #fff;
+    }
+}
+
+.breadcrumb {
+    background-color: #f5f5f0;
+}
+
+.breadcrumb a {
+    color: #3887dc
+}
+
+
+.card{
+    border: none;
+}
+.card-img-top {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+    object-position: 50% 30%;
+}
